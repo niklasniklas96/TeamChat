@@ -1,0 +1,14 @@
+name: TeamChat
+author: YonasCode
+version: 0.1
+main: de.YonasCode.Teamchat.Main
+
+commands:
+     tc:
+          description: TeamChat
+          usage: /<command>
+          default: op
+     teamchat: 
+          description: TeamChat
+          usage: /<command>
+          default: op
